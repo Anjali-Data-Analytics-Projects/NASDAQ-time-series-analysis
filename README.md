@@ -33,9 +33,25 @@ This project is dedicated to the comprehensive analysis of financial time series
 ## Skills and Technologies Used
 * **Programming Languages:** Python 3.x
 * **Libraries:**
-  * **Pandas:** Used for data manipulation and analysis.
-  * **Matplotlib & Seaborn:** Used for creating detailed visualizations.
-  * **NumPy:** For efficient numerical calculations and outlier detection.
-  * **Scipy:** For Z-score calculation during outlier detection.
-  * **Datetime & Resampling:** Used for time-based aggregations
-* **Development Tools:** Jupyter Notebook, Git, and GitHub for version control
+  * **Data Analysis Libraries**
+     * **Pandas**
+     * **NumPy** 
+  * **Data Visualization Tools**
+     * **Matplotlib** 
+     * **Seaborn** 
+  * **Statistical Analysis**
+     * **Statsmodels**
+     * **Scipy** 
+  * **Time-Aggregation**
+     * **Datetime & Resampling** 
+  * **Data Acquisition**
+     * **requests**
+* **Version Control and Collaboration**
+  * **Git** 
+  * **GitHub** 
+* **Development Environment**
+  * **Jupyter Notebook** 
+  * **VS Code** 
+
+
+
