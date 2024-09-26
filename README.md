@@ -1,4 +1,8 @@
 # Financial Time Series Analysis and Outlier Detection
+
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Technologies Used](#technologies-used)
 ## Project Overview
 This project is dedicated to the comprehensive analysis of financial time series data across multiple companies. Its primary goal is to explore the data(EDA), extract actionable insights through advanced time series analysis, focusing on identifying underlying trends and detecting anomalies in financial metrics.
 ### Key Objectives:
@@ -30,7 +34,7 @@ This project is dedicated to the comprehensive analysis of financial time series
   * Generated comprehensive reports summarizing findings, methodologies, and recommendations for stakeholders.
   * Provided clear documentation to facilitate future enhancements and enable other analysts to build upon this work.
  
-## Skills and Technologies Used
+## Technologies Used
 * **Programming Languages:** Python 3.x
 * **Libraries:**
   * **Data Analysis Libraries**
